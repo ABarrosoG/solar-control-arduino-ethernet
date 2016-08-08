@@ -1,5 +1,4 @@
-# solar-control-arduino-ethernet
- Monitorización equipo de energía solar
+# Control online y seguimiento del equipo de energía solar con Arduino Ethernet
 El brico trata de realizar la monitorización online de un sistema de energía solar fotovoltaico, en este caso emplearemos un monitor de baterías Victron BMV-700 y Arduino.
 
 
