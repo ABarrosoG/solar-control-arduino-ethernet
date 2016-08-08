@@ -1,6 +1,5 @@
-# solar-control-arduino-ethernet
-# Solar-control-arduino-ethernet
- Monitoring solar energy equipment
+# solar control online arduino ethernet Monitoring solar energy equipment
+
 The brico tries to perform online monitoring of a photovoltaic solar energy system, in this case we will use a battery monitor Victron BMV-700 and Arduino.
 
 
